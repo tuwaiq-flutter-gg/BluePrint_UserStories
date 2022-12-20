@@ -1,0 +1,22 @@
+
+
+User Story:
+
+User: Parents
+
+-as a parent, we want to log in using email and password to enter the application.
+
+-as a parent, we want to view the places and activities in the entertainment for our children.
+
+-as a parent, we want to view the description of the place.
+
+
+-as a parent, we want to save the places we like on our favorite page
+
+
+-as a parent, we want to share the places we like with our friends and family, so that we can meet them at our favorite places
+
+-as a parent, we want to schedule the activity on the calender 
+
+
+as a parent, we want to book an activity ticket  

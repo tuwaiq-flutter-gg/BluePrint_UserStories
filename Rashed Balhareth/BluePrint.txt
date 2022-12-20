@@ -1,0 +1,31 @@
+Project BluePrint : 
+
+
+-Project Name:   Jannah(جنه)
+
+
+- Project Description: an application that guides users to the valued kid’s places and activities in entertainment, sport, culture and others, with rewards and discounts 
+
+
+
+- Features List
+1-view kids' places and activity
+2- view places location 
+3- add liked places and activities in the favorites page
+4-view places description
+5- share places and activities with friends and others 
+6- contact with places owners to get more information 
+
+
+
+
+- Define the pages :
+1-sign up page
+2-log in page
+3-home page
+4- places page
+5- activities page
+6-favorite page
+7-profile page
+
+
