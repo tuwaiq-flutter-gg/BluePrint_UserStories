@@ -29,12 +29,3 @@ Project BluePrint :
 7-profile page
 
 
-- Define which group/s with access to each page :
-
-1-sign up page(all)
-2-log in page(all)
-3-home page(all)
-4- places page(all)
-5- activities page(all)
-6-favourite page(all)
-7-profile page(all)
